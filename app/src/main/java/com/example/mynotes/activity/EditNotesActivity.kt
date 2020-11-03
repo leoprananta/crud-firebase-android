@@ -1,9 +1,10 @@
-package com.example.mynotes
+package com.example.mynotes.activity
 
 import android.os.Bundle
 import android.widget.Button
 import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
+import com.example.mynotes.R
 import org.jetbrains.anko.startActivity
 
 class EditNotesActivity : AppCompatActivity() {

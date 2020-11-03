@@ -1,9 +1,9 @@
-package com.example.mynotes
+package com.example.mynotes.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ImageView
-import androidx.cardview.widget.CardView
+import com.example.mynotes.R
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 import org.jetbrains.anko.startActivity
 

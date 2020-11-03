@@ -1,9 +1,10 @@
-package com.example.mynotes
+package com.example.mynotes.activity
 
 import android.os.Bundle
 import android.widget.Button
 import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
+import com.example.mynotes.R
 import com.example.mynotes.model.Notes
 import com.google.firebase.database.DatabaseReference
 import com.google.firebase.database.FirebaseDatabase
